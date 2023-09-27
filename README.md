@@ -1,6 +1,6 @@
-# Alarm Clock Project
+# Alarm Clock 
 
-This Alarm Clock project is a simple web-based application that allows users to set and manage alarms using HTML, CSS, and JavaScript.
+This Alarm Clock project is a simple web-based application that allows users to set and manage alarms accordingly.
 
 ## Features
 
